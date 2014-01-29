@@ -12,6 +12,6 @@ Being a Blend, this is not a fully-fledged Debian fork and the modifications sta
 Project tracker
 ===============
 
-The project tracker is located at [http://www.hostedredmine.com/projects/deskbian](http://www.hostedredmine.com/projects/deskbian)
+The project tracker is located at [https://www.hostedredmine.com/projects/deskbian](https://www.hostedredmine.com/projects/deskbian)
 
 All project management and support happen there.
